@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src=""C:\Users\SUMANTH MS\OneDrive\Pictures\New folder\Untitled design.png""  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
