@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgflip.com/meme/378553561/Yo"  />
+<img align="right" height="150" src="https://i.imgflip.com/69dpsp.mp4"  />
 
 ###
 
@@ -55,7 +55,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://imgflip.com/meme/378553561/Yo"  />
+  <img height="200" src="https://i.imgflip.com/69dpsp.mp4"  />
 </div>
 
 ###
