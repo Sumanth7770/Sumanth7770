@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/69dpsp.mp4"  />
+<img align="right" height="150" src=""C:\Users\SUMANTH MS\OneDrive\Pictures\New folder\Untitled design.png""  />
 
 ###
 
@@ -51,11 +51,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Sumanth7770/Sumanth7770/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/69dpsp.mp4"  />
-</div>
 
 ###
